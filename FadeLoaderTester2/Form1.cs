@@ -66,6 +66,7 @@ namespace FadeLoaderTester2
             {
                 for (int j = 0; j < 30; j++)
                 {
+                    Console.WriteLine("form2 running...");
                     Console.WriteLine("iii" + i + " " + j);
                 }
             }
