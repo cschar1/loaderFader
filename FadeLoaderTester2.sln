@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FadeLoaderTester2", "FadeLoaderTester2\FadeLoaderTester2.csproj", "{DBA75A3F-EB44-4C0C-8110-21F799F859C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsControlLibrary1", "..\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1.csproj", "{3937F1A0-DE87-4E0B-8CA9-64650DDA44E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA75A3F-EB44-4C0C-8110-21F799F859C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA75A3F-EB44-4C0C-8110-21F799F859C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA75A3F-EB44-4C0C-8110-21F799F859C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA75A3F-EB44-4C0C-8110-21F799F859C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3937F1A0-DE87-4E0B-8CA9-64650DDA44E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3937F1A0-DE87-4E0B-8CA9-64650DDA44E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3937F1A0-DE87-4E0B-8CA9-64650DDA44E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3937F1A0-DE87-4E0B-8CA9-64650DDA44E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
